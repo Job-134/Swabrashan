@@ -1,0 +1,9 @@
+
+table,th,td{
+  font-family: arial;
+  background-color: green;
+  border: 50px;
+  border-collapse: collapse;
+  width: 800px;
+  padding: 20px;
+}
